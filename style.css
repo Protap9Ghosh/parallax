@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.parallax-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.layers {
+    position: relative;
+    width: 1100px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.box {
+    width: 80%;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background: palevioletred;
+}
+
+.myllax {
+    width: 80%;
+    margin: auto;
+    
+}
+
+
+
+
